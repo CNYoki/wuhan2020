@@ -64,9 +64,11 @@ Please click [here](./CONTRIBUTING_EN.md)
 Please click [here](./INFORMATION_GUIDE_EN.md)
 
 # Slack Communication Group
+
 Click here to join the [Slack Communication Group](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTIzNjA2MDYwOTUxLWVjMjA4MjdhNGVmZmZlZTgxYjM1ZDY1NGVkZDVkNGI0NzhjZGVlYTM2Mjc5Mjk2YjgyYTk1NDJmNTkxODZlOTE)
 
 ## Slack Channel Navigation
+
 (It requires you to join the Slack Group first following the above link)
 
 | Channel Name               | Pointer              |
@@ -94,4 +96,4 @@ FAQ of Technology Group, [click here](https://shimo.im/docs/JqX9CvrqphPV9T3J/).
 Follow [Shimo Document](https://shimo.im/docs/DdWvXvtvpxrqrJ83)
 
 ---
-Author: [@CNYoki](https://github.com/CNYoki) , Proofreader: [@Atena1118](https://github.com/Atena1118) [@JoeZijunZhou](https://github.com/JoeZijunZhou)
+Translator: [@CNYoki](https://github.com/CNYoki) , Proofreader: [@Atena1118](https://github.com/Atena1118) [@JoeZijunZhou](https://github.com/JoeZijunZhou)

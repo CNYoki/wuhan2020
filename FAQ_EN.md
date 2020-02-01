@@ -18,6 +18,10 @@ Invitation link to Slack:
 
 [https://join.slack.com/t/wuhan2020/shared_invite/enQtOTIzNjA2MDYwOTUxLWVjMjA4MjdhNGVmZmZlZTgxYjM1ZDY1NGVkZDVkNGI0NzhjZGVlYTM2Mjc5Mjk2YjgyYTk1NDJmNTkxODZlOTE](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTIzNjA2MDYwOTUxLWVjMjA4MjdhNGVmZmZlZTgxYjM1ZDY1NGVkZDVkNGI0NzhjZGVlYTM2Mjc5Mjk2YjgyYTk1NDJmNTkxODZlOTE)
 
+Information about each channel is provided [here](./README_EN.md#Slack-Channel-Navigation). 
+
+If you think the link has expired, please [raise an issue](https://github.com/wuhan2020/wuhan2020/issues) so we can reflect the changes.
+
 **Q：What are the current available channels on Slack?**
 
 A：Except for the default channels on Slack, we have:
@@ -38,7 +42,7 @@ Data entry-related channels are as follows:
 
 **Q：If I lack in technical skill, how can I contribute to Wuhan2020?**
 
-**A：** We are currently looking for UI exchange design personnel, file management and maintenance personnel, project management personnel. Furthermore, we are also in need of data entry personnel, which requires minimal computer skills.
+A：We are currently looking for UI exchange design personnel, file management and maintenance personnel, project management personnel. Furthermore, we are also in need of data entry personnel, which requires minimal computer skills.
 
 **Q：What can we do to start working in data entry for Whan2020?**
 
@@ -46,7 +50,7 @@ A：Since we have a great number of volunteers who expressed interest in this pr
 
 **Q：What kind of data are we working with?**
 
-A： We work with organizing and compiling certified information from official websites. Sources of information include but are not limited to: official government statements, official media statements, hospital data, and industrial data. We are not considering non-certified information from any sources. 
+A：We work with organizing and compiling certified information from official websites. Sources of information include but are not limited to: official government statements, official media statements, hospital data, and industrial data. We are not considering non-certified information from any sources. 
 
 ## Functional suggestions: 
 
@@ -61,4 +65,4 @@ A：When suggesting possible improvements, please try your best to include any p
 A：Issues will be closed after they have been solved. Repetitive issues or unprofessional issues will also be closed. 
 
 ---
-Author: [@Lili]() , Proofreader: [@JoeZijunZhou](https://github.com/JoeZijunZhou)
+Translator: [@Lili]() , Proofreader: [@JoeZijunZhou](https://github.com/JoeZijunZhou)
